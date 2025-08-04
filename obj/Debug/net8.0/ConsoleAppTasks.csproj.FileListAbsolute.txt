@@ -1,0 +1,14 @@
+C:\Users\user\ConsoleAppTasks\bin\Debug\net8.0\ConsoleAppTasks.exe
+C:\Users\user\ConsoleAppTasks\bin\Debug\net8.0\ConsoleAppTasks.deps.json
+C:\Users\user\ConsoleAppTasks\bin\Debug\net8.0\ConsoleAppTasks.runtimeconfig.json
+C:\Users\user\ConsoleAppTasks\bin\Debug\net8.0\ConsoleAppTasks.dll
+C:\Users\user\ConsoleAppTasks\bin\Debug\net8.0\ConsoleAppTasks.pdb
+C:\Users\user\ConsoleAppTasks\obj\Debug\net8.0\ConsoleAppTasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\ConsoleAppTasks\obj\Debug\net8.0\ConsoleAppTasks.AssemblyInfoInputs.cache
+C:\Users\user\ConsoleAppTasks\obj\Debug\net8.0\ConsoleAppTasks.AssemblyInfo.cs
+C:\Users\user\ConsoleAppTasks\obj\Debug\net8.0\ConsoleAppTasks.csproj.CoreCompileInputs.cache
+C:\Users\user\ConsoleAppTasks\obj\Debug\net8.0\ConsoleAppTasks.dll
+C:\Users\user\ConsoleAppTasks\obj\Debug\net8.0\refint\ConsoleAppTasks.dll
+C:\Users\user\ConsoleAppTasks\obj\Debug\net8.0\ConsoleAppTasks.pdb
+C:\Users\user\ConsoleAppTasks\obj\Debug\net8.0\ConsoleAppTasks.genruntimeconfig.cache
+C:\Users\user\ConsoleAppTasks\obj\Debug\net8.0\ref\ConsoleAppTasks.dll
